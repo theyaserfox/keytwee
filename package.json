@@ -1,0 +1,35 @@
+{
+  "name": "keytwee",
+  "version": "0.0.2",
+  "description": "The quick way to stream a tweets related to a specific keyword",
+  "main": "keytwee.js",
+  "bin": {
+    "keytwee": "./bin/keytwee"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theyaserfox/keytwee.git"
+  },
+  "keywords": [
+    "twitter",
+    "keyword",
+    "stream"
+  ],
+  "author": "Yaser Abdelaziz",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/theyaserfox/keytwee/issues"
+  },
+  "homepage": "https://github.com/theyaserfox/keytwee",
+  "dependencies": {
+    "keyword-tweets-stream": "0.0.4"
+  }
+}
