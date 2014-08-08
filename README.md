@@ -13,7 +13,7 @@ $ sudo npm install -g keytwee
 
 #Usage
 ```bash
-keytwee KEYWORD
+$ keytwee KEYWORD
 ```
 
 As simple as this
