@@ -11,5 +11,6 @@ module.exports.run = function(args) {
 		keyword_tweets_stream.getTweetsStream(keyword, function(tweet_text){
 			console.log("Tweet: " + tweet_text);
 		});
-	} else console.log("Type a keyword after 'node TwiiterApp.js' command");
+	}
+	else console.log("Type a keyword after 'keytwee' command");
 };

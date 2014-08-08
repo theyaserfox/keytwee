@@ -1,6 +1,6 @@
 {
   "name": "keytwee",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "The quick way to stream a tweets related to a specific keyword",
   "main": "keytwee.js",
   "bin": {
